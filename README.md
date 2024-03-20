@@ -14,3 +14,6 @@
 
 
 ▪C#, Java8
+
+<h3>프로젝트 영상</h3>
+https://youtu.be/1LxyJc2dhuA
